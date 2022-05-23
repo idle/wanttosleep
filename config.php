@@ -4,16 +4,15 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
-        'image' => 'default-share.png',
+        'title' => 'Kai Cas Blog',
+        'description' => 'Personal CAS blog of Kai.',
+        'image' => 'http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/thumbs-up.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Kai Wahlin',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+    
     ],
     'services' => [
         'cmsVersion' => '~2.10',
